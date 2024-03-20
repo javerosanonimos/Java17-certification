@@ -1,6 +1,4 @@
 package java17._1variables;
-
-
 /**
  *
  * @author JaverosAnonimos
