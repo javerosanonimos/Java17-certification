@@ -7,7 +7,7 @@ public class Declaracion {
     //Declaración Múltiple
     int a=5,b,c; // Se pueden declarar varias variables en una misma línea e incluso inicializarlas.
 
-    //Caracteres permitidos: Letras, números, "$" y "_"
+    //Caracteres permitidos: Letras, números, "$" y "_" las siguientes variables son correctas.
     String str$;
     String str_;
     String str17;
